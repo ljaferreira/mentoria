@@ -1,6 +1,6 @@
-# 🧠 Mentoria Java — Repositório de Códigos
+# 🧠 Mentoria — Repositório de Códigos
 
-Este repositório reúne códigos, exemplos práticos e desafios utilizados ao longo da mentoria focada em desenvolvimento Java. O objetivo é criar um acervo didático e bem estruturado que auxilie no aprendizado de boas práticas de programação, arquitetura e uso moderno da linguagem Java.
+Este repositório reúne códigos, exemplos práticos e desafios utilizados ao longo da mentoria focada em desenvolvimento. O objetivo é criar um acervo didático e bem estruturado que auxilie no aprendizado de boas práticas de programação, arquitetura e uso moderno da linguagem Java.
 
 ---
 
